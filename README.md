@@ -1,1 +1,1 @@
-# FS-02
+Simple calculator using HTML,CSS and JAVASCRIPT.
